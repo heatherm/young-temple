@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+
+ @import url('https://fonts.googleapis.com/css?family=Faster+One|Open+Sans|Roboto+Condensed|VT323');
+
+ .container {
+     text-align: center;
+ }
+
+ .container > h1 {
+    font-size: 6rem;
+ }
+
+ .container > h2 {
+     font-size: 4rem;
+ }
+
+ .leon {
+     font-family: 'Open Sans', sans-serif;
+ }
+
+ .yuming {
+     font-family: 'Faster One', sans-serif;
+ }
+
+ .billy {
+     font-family: 'Roboto Condensed', sans-serif;
+ }
+
+ .phoebe {
+     font-family: 'VT323', monospace;
+ }

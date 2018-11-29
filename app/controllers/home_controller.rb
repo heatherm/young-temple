@@ -7,4 +7,7 @@ class HomeController < ApplicationController
 
   def names
   end
+
+  def back
+  end
 end

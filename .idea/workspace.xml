@@ -250,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Unknown.Development: testapp4480395254">
+  <component name="RunManager" selected="Rails.Development: testapp4">
     <configuration name="Development: testapp4" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
       <module name="testapp4" />
@@ -346,6 +346,12 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Rails.Development: testapp4" />
+      <item itemvalue="Rails.Production: testapp4" />
+      <item itemvalue="Rake.spec: testapp4" />
+      <item itemvalue="Rake.test: testapp4" />
+    </list>
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
